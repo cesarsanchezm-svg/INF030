@@ -1,0 +1,53 @@
+Tarea 1: Investigación y Representación de las Figuras en Diagramas de Flujo
+
+
+Objetivo General
+Comprender los elementos básicos que conforman un diagrama de flujo y aprender a representarlos correctamente, identificando su uso, significado y aplicación práctica en la resolución de problemas.
+
+¿Por qué es importante esta tarea?
+Los diagramas de flujo son una herramienta fundamental en programación porque permiten visualizar la lógica de un algoritmo antes de escribir código. Esta tarea les ayudará a:
+
+Desarrollar pensamiento lógico.
+Entender cómo se estructura un proceso.
+Prepararse para diseñar algoritmos más complejos.
+Instrucciones Detalladas
+1. Investigación Teórica
+Busca información sobre todas las figuras utilizadas en diagramas de flujo.
+Asegúrate de incluir las siguientes figuras básicas:
+Óvalo (Inicio / Fin)
+Rectángulo (Proceso)
+Rombo (Decisión)
+Flecha (Conector / Dirección del flujo)
+Paralelogramo (Entrada / Salida)
+Para cada figura, responde:
+¿Cómo se llama?
+¿Cuál es su función dentro del diagrama?
+¿Qué ejemplos de uso tiene?
+2. Descripción de Uso
+Explica cuándo y por qué se utiliza cada figura.
+Ejemplo:
+Rombo: Se usa para representar una decisión que puede tener dos o más caminos (Sí / No).
+Paralelogramo: Indica operaciones de entrada (leer datos) o salida (mostrar resultados).
+3. Ejemplos Visuales
+Dibuja cada figura y acompáñala con un ejemplo práctico.
+Puedes hacerlo:
+A mano (escaneado o foto clara).
+Con herramientas digitales como Lucidchart, Visio, Canva, Draw.io.
+Cada ejemplo debe mostrar cómo se usa la figura en un contexto real.
+4. Diagrama de Flujo Completo
+Diseña un diagrama que represente un proceso sencillo, por ejemplo:
+“Hacer una taza de café”.
+“Registrarse en una plataforma en línea”.
+Condiciones:
+Debe incluir todas las figuras investigadas.
+El flujo debe ser lógico y ordenado.
+Formato de Entrega
+Documento en PDF o Word que contenga:
+Descripciones claras de cada figura.
+Ejemplos visuales con explicación.
+Diagrama de flujo final bien presentado.
+Criterios de Evaluación
+Completitud: Todas las figuras y sus descripciones están incluidas.
+Claridad: Explicaciones fáciles de entender.
+Presentación: Documento ordenado y visualmente atractivo.
+Creatividad: Uso innovador de las figuras en el diagrama final.
