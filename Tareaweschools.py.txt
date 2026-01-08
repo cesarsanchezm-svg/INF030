@@ -1,0 +1,29 @@
+
+print("Hello, World!")
+
+
+X=15
+
+Y=9
+
+resultado = X * Y
+
+print("hello, the answer is YA TU SABE: ")
+
+print(resultado)
+
+
+print("------------------------------------ ")
+
+print("calcular el area del rectangulo")
+base = 10 
+altura = 57
+area_rectangulo = base * altura
+
+print(area_rectangulo)
+
+print("------------------------------------ ")
+
+print(7*8)
+
+
